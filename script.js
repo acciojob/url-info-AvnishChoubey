@@ -1,1 +1,2 @@
-//your JS code here. If required.
+// your JS code here. If required.
+alert(location.toString().length);
