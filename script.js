@@ -1,2 +1,2 @@
 // your JS code here. If required.
-alert(location.toString().length);
+alert("The length of the URL is: " + location.toString().length);
